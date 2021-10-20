@@ -16,3 +16,31 @@
     padding: 15px 0px;
     margin: 2px;
 }
+
+
+.body{
+    
+    display: flex;
+    width: 100%;
+}
+
+
+
+.main_contetn{
+    /* width: 800px; */
+    width: 70%;
+    background-color: rgb(197, 191, 191);
+    margin: 2px;
+    padding: 150px 0px;
+    text-align: center;
+}
+
+
+.content{
+    /* width: 208px; */
+    width: 30%;
+    background-color: rgb(197, 191, 191);
+    margin: 2px;
+    text-align: center;
+    padding: 150px 0px;
+}
