@@ -44,3 +44,12 @@
     text-align: center;
     padding: 150px 0px;
 }
+
+.footer{
+    width: 100%;
+    background-color: rgb(197, 191, 191);
+    text-align: center;
+    color: white;
+    padding: 15px 0px;
+    margin: 2px;
+}
